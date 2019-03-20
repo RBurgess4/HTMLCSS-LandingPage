@@ -19,7 +19,7 @@ section {display: flex;}
 /* Alignment classes for DIVs, UL, & Sections in our work */
 .align-center { align-items: center; }
 .center { justify-content: center;}
-.space-between { justify-content: spce-space-between;}
+.space-between { justify-content: space-between;}
 
 
 /* Buttons & Styling for our buttons in our work */
@@ -38,6 +38,7 @@ section {display: flex;}
   display: block;
   padding: 6px 12px;
   border: 1px solid #a0a0a0;
+  color: #8598a2;
   line-height: 1.4;
 }
 
