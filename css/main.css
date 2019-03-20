@@ -92,13 +92,7 @@ section {display: flex;}
   letter-spacing: 0.2px;
 }
 
-.profile {
-  text-align: right;
-  margin-left: auto;
-  padding: 15px;
-  color: #364147;
-  font-size: 18px;
-}
+.profile { margin-left: auto; }
 .account {
     text-align: right;
     padding: 15px;
