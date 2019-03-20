@@ -109,7 +109,7 @@ section {display: flex;}
 }
 
 .hero {
-  background-image: url('../img.hero.jpg');
+  background-image: url('../img/hero.jpg')
   height: 400px;
   background-size: cover;
   background-position: center center;
@@ -119,7 +119,7 @@ section {display: flex;}
 .hero h2 { color: #faa541; }
 .hero h1, .hero h2 {
   font-size: 63px;
-  font-weight: 700px;
+  font-weight: 700;
   line-height: 0.9;
 }
 
@@ -134,8 +134,8 @@ section {display: flex;}
 .banner {
 margin: 55px 15px;
 width: 100%;
-border-top: 1 px solid #a0a0a0;
-border-bottom: 1 px solid #a0a0a0;
+border-top: 1px solid #a0a0a0;
+border-bottom: 1px solid #a0a0a0;
 padding: 25px 0;
 }
 .banner img { width: 250px; }
